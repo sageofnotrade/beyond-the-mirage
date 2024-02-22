@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 8d8bf572410612c4ba3191868fb973f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Malacanang Palace Animation_Clip
+    second: {fileID: 7400000, guid: 3cd819f28fad87b4c944d1f208eb08e4, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638429091480003627
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Malacanang Palace Animation_Frame_0
+    originalName: 
+    pivot: {x: 0.6346483, y: -1.0797101}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 562
+      width: 583
+      height: 138
+    spriteID: 9fc15e4ea04455d48be0d1498a96dbe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 562}
+  - name: Malacanang Palace Animation_Frame_1
+    originalName: 
+    pivot: {x: 0.61690646, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 595
+      y: 562
+      width: 556
+      height: 135
+    spriteID: 2527ad52e25129f4b970a647c068cd63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 595, y: 562}
+  - name: Malacanang Palace Animation_Frame_2
+    originalName: 
+    pivot: {x: 0.59887004, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1159
+      y: 562
+      width: 531
+      height: 135
+    spriteID: b97e50d6cc75fa74b9a70b047a3db939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1159, y: 562}
+  - name: Malacanang Palace Animation_Frame_3
+    originalName: 
+    pivot: {x: 0.5815324, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 708
+      width: 509
+      height: 135
+    spriteID: 277f967ffffeb0b43b488036a1615dfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 708}
+  - name: Malacanang Palace Animation_Frame_4
+    originalName: 
+    pivot: {x: 0.5644172, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 955
+      y: 708
+      width: 489
+      height: 135
+    spriteID: f7c105e5ab1254642860d068216cadcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 955, y: 708}
+  - name: Malacanang Palace Animation_Frame_5
+    originalName: 
+    pivot: {x: 0.55991733, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1452
+      y: 708
+      width: 484
+      height: 135
+    spriteID: 05ae5d0957d95f64a8ce9fde5d3540b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1452, y: 708}
+  - name: Malacanang Palace Animation_Frame_6
+    originalName: 
+    pivot: {x: 0.5438972, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 904
+      width: 467
+      height: 135
+    spriteID: 05143f42eef2291498a456031a9cae1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 904}
+  - name: Malacanang Palace Animation_Frame_7
+    originalName: 
+    pivot: {x: 0.50808316, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 904
+      width: 433
+      height: 135
+    spriteID: 51237ccb59b2cc741beedff4cd73750c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 904}
+  - name: Malacanang Palace Animation_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 920
+      y: 904
+      width: 426
+      height: 135
+    spriteID: d22dc120d91dbf845bf849e26d2bdc72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 920, y: 904}
+  - name: Malacanang Palace Animation_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1354
+      y: 904
+      width: 426
+      height: 135
+    spriteID: b7171057344d16f45b2df4308aa992b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1354, y: 904}
+  - name: Malacanang Palace Animation_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 1047
+      width: 426
+      height: 135
+    spriteID: 779b2e19d48718e489c5f0e0a9ee04dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 1047}
+  - name: Malacanang Palace Animation_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 872
+      y: 1047
+      width: 426
+      height: 135
+    spriteID: 389c0cb7ec6c3a749a6851e0d218437c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 872, y: 1047}
+  - name: Malacanang Palace Animation_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1306
+      y: 1047
+      width: 426
+      height: 135
+    spriteID: 34f5bb43485101c44baedea4a78574b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1306, y: 1047}
+  - name: Malacanang Palace Animation_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1193
+      width: 426
+      height: 135
+    spriteID: fd56255ef034b2d43be04c2bde4c1354
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1193}
+  - name: Malacanang Palace Animation_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 1193
+      width: 426
+      height: 135
+    spriteID: 54ffb72bdae87c540ab37802a30b4551
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 1193}
+  - name: Malacanang Palace Animation_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 872
+      y: 1193
+      width: 426
+      height: 135
+    spriteID: d3ee4c955bca20543937e3da6f7eff4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 872, y: 1193}
+  - name: Malacanang Palace Animation_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1306
+      y: 1193
+      width: 426
+      height: 135
+    spriteID: 3f14e54c488cb5c4ca1771b15a16cf05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1306, y: 1193}
+  - name: Malacanang Palace Animation_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1336
+      width: 426
+      height: 135
+    spriteID: fb034d77eccdfca4ca7a027b4854d32a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1336}
+  - name: Malacanang Palace Animation_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 1336
+      width: 426
+      height: 135
+    spriteID: 3b3ad60a9fb11ec49ad05e1d45ad4ffd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 1336}
+  - name: Malacanang Palace Animation_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 872
+      y: 1336
+      width: 426
+      height: 135
+    spriteID: 1f111274d64dd894da6449f8eacbdf75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 872, y: 1336}
+  - name: Malacanang Palace Animation_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1306
+      y: 1336
+      width: 426
+      height: 135
+    spriteID: 130cbbb1a1d18344f99e665d42bbbafa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1306, y: 1336}
+  - name: Malacanang Palace Animation_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1479
+      width: 426
+      height: 135
+    spriteID: 759c01646e3e3f74399f200644252bb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1479}
+  - name: Malacanang Palace Animation_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.1037036}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 1479
+      width: 426
+      height: 135
+    spriteID: cb47d77d3f110334eb87c000d004b191
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 1479}
+  - name: Malacanang Palace Animation_Frame_23
+    originalName: 
+    pivot: {x: 0.49999997, y: -1.057971}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1047
+      width: 426
+      height: 138
+    spriteID: 767006d089d617945a67ef05087fe898
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1047}
+  - name: Malacanang Palace Animation_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.51063836}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 708
+      width: 426
+      height: 188
+    spriteID: 2c5ae73ad22156f40b95521386167d73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 708}
+  - name: Malacanang Palace Animation_Frame_25
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.24017465}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1306
+      y: 283
+      width: 426
+      height: 229
+    spriteID: 8e52b00ed8da2a64a91d599945e84fb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1306, y: 283}
+  - name: Malacanang Palace Animation_Frame_26
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23478259}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 872
+      y: 283
+      width: 426
+      height: 230
+    spriteID: af1e6139311ead841804fb9dccc3fa9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 872, y: 283}
+  - name: Malacanang Palace Animation_Frame_27
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.13147411}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 283
+      width: 426
+      height: 251
+    spriteID: 04f64fcb6be5efb4fac6a7baa4b1f17a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 283}
+  - name: Malacanang Palace Animation_Frame_28
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.047970474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 426
+      height: 271
+    spriteID: 222fe49811d08964883283dec5d4abca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Malacanang Palace Animation_Frame_29
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.047970474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 4
+      width: 426
+      height: 271
+    spriteID: 78090627ab724ac4498318c16f58f5b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 4}
+  - name: Malacanang Palace Animation_Frame_30
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.047970474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 872
+      y: 4
+      width: 426
+      height: 271
+    spriteID: db2750974f826ac45b8ec9aebdb0419d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 872, y: 4}
+  - name: Malacanang Palace Animation_Frame_31
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.047970474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1306
+      y: 4
+      width: 426
+      height: 271
+    spriteID: ab686730feb594b4aa3a24c10895aae1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1306, y: 4}
+  - name: Malacanang Palace Animation_Frame_32
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.047970474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 283
+      width: 426
+      height: 271
+    spriteID: 210890a71b5832c4ea2cc85e6697437f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 283}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -656521727
+    name: Malacanang Palace Animation
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Malacanang Palace Animation_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 7
+        y: 149
+        width: 583
+        height: 138
+      spriteId: 9fc15e4ea04455d48be0d1498a96dbe1
+    - name: Malacanang Palace Animation_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 34
+        y: 149
+        width: 556
+        height: 135
+      spriteId: 2527ad52e25129f4b970a647c068cd63
+    - name: Malacanang Palace Animation_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 59
+        y: 149
+        width: 531
+        height: 135
+      spriteId: b97e50d6cc75fa74b9a70b047a3db939
+    - name: Malacanang Palace Animation_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 81
+        y: 149
+        width: 509
+        height: 135
+      spriteId: 277f967ffffeb0b43b488036a1615dfd
+    - name: Malacanang Palace Animation_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 101
+        y: 149
+        width: 489
+        height: 135
+      spriteId: f7c105e5ab1254642860d068216cadcb
+    - name: Malacanang Palace Animation_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 106
+        y: 149
+        width: 484
+        height: 135
+      spriteId: 05ae5d0957d95f64a8ce9fde5d3540b1
+    - name: Malacanang Palace Animation_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 123
+        y: 149
+        width: 467
+        height: 135
+      spriteId: 05143f42eef2291498a456031a9cae1a
+    - name: Malacanang Palace Animation_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 157
+        y: 149
+        width: 433
+        height: 135
+      spriteId: 51237ccb59b2cc741beedff4cd73750c
+    - name: Malacanang Palace Animation_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: d22dc120d91dbf845bf849e26d2bdc72
+    - name: Malacanang Palace Animation_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: b7171057344d16f45b2df4308aa992b3
+    - name: Malacanang Palace Animation_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 779b2e19d48718e489c5f0e0a9ee04dd
+    - name: Malacanang Palace Animation_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 389c0cb7ec6c3a749a6851e0d218437c
+    - name: Malacanang Palace Animation_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 34f5bb43485101c44baedea4a78574b6
+    - name: Malacanang Palace Animation_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: fd56255ef034b2d43be04c2bde4c1354
+    - name: Malacanang Palace Animation_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 54ffb72bdae87c540ab37802a30b4551
+    - name: Malacanang Palace Animation_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: d3ee4c955bca20543937e3da6f7eff4c
+    - name: Malacanang Palace Animation_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 3f14e54c488cb5c4ca1771b15a16cf05
+    - name: Malacanang Palace Animation_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: fb034d77eccdfca4ca7a027b4854d32a
+    - name: Malacanang Palace Animation_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 3b3ad60a9fb11ec49ad05e1d45ad4ffd
+    - name: Malacanang Palace Animation_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 1f111274d64dd894da6449f8eacbdf75
+    - name: Malacanang Palace Animation_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 130cbbb1a1d18344f99e665d42bbbafa
+    - name: Malacanang Palace Animation_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: 759c01646e3e3f74399f200644252bb6
+    - name: Malacanang Palace Animation_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 164
+        y: 149
+        width: 426
+        height: 135
+      spriteId: cb47d77d3f110334eb87c000d004b191
+    - name: Malacanang Palace Animation_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 164
+        y: 146
+        width: 426
+        height: 138
+      spriteId: 767006d089d617945a67ef05087fe898
+    - name: Malacanang Palace Animation_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 164
+        y: 96
+        width: 426
+        height: 188
+      spriteId: 2c5ae73ad22156f40b95521386167d73
+    - name: Malacanang Palace Animation_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 164
+        y: 55
+        width: 426
+        height: 229
+      spriteId: 8e52b00ed8da2a64a91d599945e84fb2
+    - name: Malacanang Palace Animation_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 164
+        y: 54
+        width: 426
+        height: 230
+      spriteId: af1e6139311ead841804fb9dccc3fa9b
+    - name: Malacanang Palace Animation_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 164
+        y: 33
+        width: 426
+        height: 251
+      spriteId: 04f64fcb6be5efb4fac6a7baa4b1f17a
+    - name: Malacanang Palace Animation_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 164
+        y: 13
+        width: 426
+        height: 271
+      spriteId: 222fe49811d08964883283dec5d4abca
+    - name: Malacanang Palace Animation_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 164
+        y: 13
+        width: 426
+        height: 271
+      spriteId: 78090627ab724ac4498318c16f58f5b3
+    - name: Malacanang Palace Animation_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 164
+        y: 13
+        width: 426
+        height: 271
+      spriteId: db2750974f826ac45b8ec9aebdb0419d
+    - name: Malacanang Palace Animation_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 164
+        y: 13
+        width: 426
+        height: 271
+      spriteId: ab686730feb594b4aa3a24c10895aae1
+    - name: Malacanang Palace Animation_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 164
+        y: 13
+        width: 426
+        height: 271
+      spriteId: 210890a71b5832c4ea2cc85e6697437f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 754, y: 375}
