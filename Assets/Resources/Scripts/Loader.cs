@@ -16,4 +16,6 @@ public static class Loader{
         SceneManager.LoadScene(scn.ToString());
     }
 
+    
+
 }
